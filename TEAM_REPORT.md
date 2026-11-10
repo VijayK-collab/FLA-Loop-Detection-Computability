@@ -2,7 +2,7 @@
 ## Problem chosen: (a) Infinite-loop detection in software
 
 **Course:** 21CSC301T Formal Language and Automata | **CO:** CO1–CO5 | **SDG 9 (Level 2 – Design alignment)**
-**Team:** _<Team name>_  |  **Members:** _<Name – Reg. No.>_ …  (see §11 for individual contributions)
+**Team:** _<Team name>_  |  **Members:** _Name: Vijay Bharath Simha – Reg. No: RA2411026050040_ …  (see §11 for individual contributions)
 
 ---
 ## 1. Real-world problem and assumptions
