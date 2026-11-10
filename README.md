@@ -4,4 +4,4 @@
 
 Team report: `TEAM_REPORT.md`. Run: `python3 loopcheck.py` and `python3 test_loopcheck.py`. Python 3.8+, no dependencies.
 
-**Student:** _<Name, Reg. No.>_ · **SDG 9** (Level 2 – Design alignment)
+**Student:** _Name: Vijay Bharath Simha, Reg No: RA2411026050040_ · **SDG 9** (Level 2 – Design alignment)
